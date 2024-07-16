@@ -1,0 +1,23 @@
+/* frontend/src/App.css */
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  background-color: #f7f7f7;
+  color: #4D4F5C;
+}
+
+h1 {
+  color: #153376;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+input, button {
+  margin: 10px 0;
+  padding: 10px;
+  font-size: 16px;
+}
